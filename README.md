@@ -1,5 +1,5 @@
 Dies ist die Version MediaTerm 14.0. 
-Die letzte die Martin veröffentlicht hat und die letzte die vor der Abschaltung seiner Website zum Download freigegeben wurde. 
+Die letzte die Martin veröffentlicht hat und die letzte die vor der Abschaltung seiner Website im April 2025 zum Download freigegeben wurde. 
 Man findet die gesamte Website samt Skript auch noch im Webarchiv:
 https://web.archive.org/web/20240930223043/https://martikel.bplaced.net/skripte1/mediaterm.html
 
